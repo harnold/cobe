@@ -1,0 +1,16 @@
+"COBE" (COmpilation By Evolution) is an experimental retargetable code
+generator based on genetic algorithms.
+
+This program has been used in the investigation of novel code generation
+methods that are able to produce optimized code for application-specific
+processors with instruction-level parallelism and complex instructions,
+while being sufficiently generic to support design exploration and
+design evaluation in a hardware/software codesign system.
+
+The code generator has been developed in C# using a beta version of
+Microsoft's .NET framework; therefore the code does not use any of the
+features introduced in more recent versions of that language.  You can
+use any version of the .NET Framework SDK or Mono to compile it.
+
+The files in this repository are licensed under the conditions specified
+in the accompanying LICENSE file.
